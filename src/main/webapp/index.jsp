@@ -11,10 +11,7 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
-<h1 style="color: pink; font-size: 40px;" align="center">hey hai DevOps</h1>
-<h1 style="color: red; font-size: 80px;" align="center">this is RAVITEJA</h1>
-<h1 style="color: pink; font-size: 40px;" align="center">devops is very intresting</h1>
-	
+<h1 style="color: red; font-size: 80px;" align="center">HAI THIS IS RAVITEJA</h1>
 	
 	
 	
