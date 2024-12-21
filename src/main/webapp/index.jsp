@@ -13,7 +13,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
 <h1 style="color: pink; font-size: 40px;" align="center">hey hai DevOps</h1>
 <h1 style="color: red; font-size: 80px;" align="center">this is RAVITEJA</h1>
-<h1 style="color: pink; font-size: 40px;" align="center">hey hai DevOps</h1>
+<h1 style="color: pink; font-size: 40px;" align="center">devops is very intresting</h1>
 	
 	
 	
