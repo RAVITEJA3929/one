@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.167.13.69:8081/repository/sonu/</url>
+		    <url>http://54.167.13.69:8081/repository/teja/</url>
 		</repository>
   	</distributionManagement>
 	
